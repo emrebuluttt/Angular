@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "emre-2ce9a": {
+      "hosting": {
+        "proje01": [
+          "emre-2ce9a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "emre-2ce9a"
+  }
+}
